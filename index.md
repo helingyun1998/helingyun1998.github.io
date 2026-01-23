@@ -37,9 +37,9 @@ DOI: 10.1007/s11192-023-04796-1
 
 ## Contact
 
-Email: [lingyun.he@psu.edu](mailto:lingyun.he@psu.edu)
-Google Scholar: (add your Scholar profile link here)
+Email: [lbh5479@psu.edu](mailto:lbh5479@psu.edu)
+Google Scholar: https://scholar.google.com/citations?user=9XCEO-kAAAAJ&hl=en
 
 ---
 
-*This site is hosted on GitHub Pages and designed to be indexed by Google Scholar.*
+*This site is hosted on GitHub Pages.*

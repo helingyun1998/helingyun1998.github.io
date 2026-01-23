@@ -11,22 +11,22 @@ Ph.D. candidate in Industrial Engineering at Penn State University, specializing
 
 
 ## Education
-The Pennsylvania State University, USA, GPA: 3.78/4 Aug 2021 – Aug 2026
+The Pennsylvania State University, USA, Aug 2021 – Aug 2026
 
-Ph. D. in Industrial Engineering, concentration in Machine Learning and Cognitive Science
+  Ph. D. in Industrial Engineering, concentration in Machine Learning and Cognitive Science
+  
+  M.S. in Industrial Engineering and Operation Research
 
-M.S. in Industrial Engineering and Operation Research
 
+The Colorado State University, USA, Aug 2018 – May 2021
 
-The Colorado State University, USA, GPA: 3.99/4 Aug 2018 – May 2021
-
-Bachelor of Sciences in Electrical Engineering, Bachelor of Arts in Economics,
-
-Bachelor of Sciences in General Mathematics
+  Bachelor of Sciences in Electrical Engineering, Bachelor of Arts in Economics,
+  
+  Bachelor of Sciences in General Mathematics
 
 The East China Normal University, Shanghai, CN Sep 2016 – Jul 2021
 
-Bachelor of Engineering in Electronic and Information Technology
+  Bachelor of Engineering in Electronic and Information Technology
 
 
 ## Publications

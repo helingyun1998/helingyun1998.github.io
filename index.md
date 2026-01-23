@@ -1,0 +1,45 @@
+# Lingyun He
+
+Industrial Engineering, Penn State University
+Research interests: Large Language Models · Computational Cognitive Science 
+
+---
+
+## Publications
+
+### 2025
+
+**Simulating human cognition in abacus gesture learning: An ACT-R and PyIBL approach**
+Lingyun He; Farnaz Tehranchi
+Proceedings of the 21st International Conference on Cognitive Modeling (ICCM 2025), pp. 61–67
+[PDF](https://acs.ist.psu.edu/papers/ICCM2025Proceedings.pdf)
+
+**Dynamic eye-tracking on large screens: A 3D printed adjustable guide rail platform**
+Shivam Acharya; Lingyun He; Farnaz Tehranchi
+Proceedings of the Design Society, 5, 1405–1414
+DOI: 10.1017/pds.2025.10154
+
+### 2024
+
+**Cognitive models for abacus gesture learning**
+Lingyun He; Lee Fleming; Guang-Cheng Li; Farnaz Tehranchi
+Proceedings of the 46th Annual Meeting of the Cognitive Science Society
+[PDF](https://escholarship.org/uc/item/6mk359vh)
+
+### 2023
+
+**Philanthropic supported innovation: Trends, areas, and impact**
+Guang-Cheng Li; Lingyun He; Lee Fleming
+Scientometrics, 128, 5507–5520
+DOI: 10.1007/s11192-023-04796-1
+
+---
+
+## Contact
+
+Email: [lingyun.he@psu.edu](mailto:lingyun.he@psu.edu)
+Google Scholar: (add your Scholar profile link here)
+
+---
+
+*This site is hosted on GitHub Pages and designed to be indexed by Google Scholar.*

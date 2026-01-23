@@ -1,9 +1,33 @@
 # Lingyun He
 
 Industrial Engineering, Penn State University
+
 Research interests: Large Language Models · Computational Cognitive Science 
 
+Ph.D. candidate in Industrial Engineering at Penn State University, specializing in Machine Learning and Cognitive Science. I have industry experience at EvenUp (LLM-driven information summarization) and Meta (scaling recommendation systems). My research focuses on building reliable and scalable AI/ML systems through large-scale model architectures, domain-specific information summarization, and prompt optimization for real-world applications.
+
+
 ---
+
+
+## Education
+The Pennsylvania State University, USA, GPA: 3.78/4 Aug 2021 – Aug 2026
+
+Ph. D. in Industrial Engineering, concentration in Machine Learning and Cognitive Science
+
+M.S. in Industrial Engineering and Operation Research
+
+
+The Colorado State University, USA, GPA: 3.99/4 Aug 2018 – May 2021
+
+Bachelor of Sciences in Electrical Engineering, Bachelor of Arts in Economics,
+
+Bachelor of Sciences in General Mathematics
+
+The East China Normal University, Shanghai, CN Sep 2016 – Jul 2021
+
+Bachelor of Engineering in Electronic and Information Technology
+
 
 ## Publications
 

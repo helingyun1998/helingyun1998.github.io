@@ -22,7 +22,7 @@ The Pennsylvania State University, USA, Aug 2021 – Aug 2026
 
 **Simulating human cognition in abacus gesture learning: An ACT-R and PyIBL approach**
 Lingyun He; Farnaz Tehranchi
-Proceedings of the 21st International Conference on Cognitive Modeling (ICCM 2025), pp. 61–67
+Proceedings of the 23rd International Conference on Cognitive Modeling (ICCM 2025), pp. 61–67
 [PDF](https://acs.ist.psu.edu/papers/ICCM2025Proceedings.pdf)
 
 **Dynamic eye-tracking on large screens: A 3D printed adjustable guide rail platform**
@@ -49,7 +49,8 @@ DOI: 10.1007/s11192-023-04796-1
 ## Contact
 
 Email: [lbh5479@psu.edu](mailto:lbh5479@psu.edu)
-Google Scholar: https://scholar.google.com/citations?user=9XCEO-kAAAAJ&hl=en
+
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=xY9-EHUAAAAJ&authuser=2#
 
 ---
 

@@ -50,7 +50,8 @@ DOI: 10.1007/s11192-023-04796-1
 
 Email: [lbh5479@psu.edu](mailto:lbh5479@psu.edu)
 
-Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=xY9-EHUAAAAJ&authuser=2#
+Google Scholar: 
+https://scholar.google.com/citations?user=9XCEO-kAAAAJ&hl=en
 
 ---
 

@@ -20,7 +20,7 @@ The Pennsylvania State University, USA, Aug 2021 – Aug 2026
 
 ### 2025
 
-**Simulating human cognition in abacus gesture learning: An ACT-R and PyIBL approach**
+**Simulating human cognition in abacus gesture learning: An ACT-R with Vision/Motor and PyIBL Approach**
 Lingyun He; Farnaz Tehranchi
 Proceedings of the 23rd International Conference on Cognitive Modeling (ICCM 2025), pp. 61–67
 [PDF](https://acs.ist.psu.edu/papers/ICCM2025Proceedings.pdf)
